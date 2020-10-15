@@ -1,2 +1,2 @@
 # thanos-effect-forfun
-Commonnn who doesn't like MARVELLLLL......... Just tried some cool thanos effect .
+Commonnn who doesn't like MARVELLLLL......... Just tried some cool thanos effect using css and javascript .
